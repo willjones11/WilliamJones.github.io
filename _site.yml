@@ -16,10 +16,11 @@ navbar:
   right:
     - text: Links 
       menu:
-      - href: https://github.com/willjones11
-        icon: fa-github
-      - href: https://www.linkedin.com/in/williamfjones11/
-        icon: fa-twitter
+      - icon: fa-github
+        href: https://github.com/willjones11
+      - icon: fa-linkedin
+        href: https://www.linkedin.com/in/williamfjones11/
+        
     - text: Papers
       menu: 
       - text: LSTM CNN
@@ -29,4 +30,3 @@ navbar:
 html_document:
     theme: yeti
       
-  
