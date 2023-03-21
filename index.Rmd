@@ -4,7 +4,25 @@ author: "William Jones"
 date: "2023-03-20"
 output: html_document
 ---
-#website heading 
+hello
+```{css, echo = FALSE}
+ body{
+ 
+}
 
+```
 
-
+<center>
+  <h1> Welcome to My Website</h1>
+  <img src="https://github.com/willjones11/willjones11.github.io/IMG_4213 2.JPG">
+  <h2> My Name is William Jones </h2>
+  <h3> I currently reside in Atlanta, Georgia where I work at Georgia State University as a Research Temp</h3>
+  <h2><u>Education</u></h2>
+  <img src = "https://github.com/willjones11/willjones11.github.io/smu.png">
+  <h3>Southern Methodist University</h3>
+  <h3>Masters of Science in Data Science</h3>
+  <img src = "https://github.com/willjones11/willjones11.github.io/gsu.png">
+  <h3>Georgia State University</h3>
+  <h3>Bachelors of Science in Physics</h3>
+  <h3>Bachelors of Science in Computer Science</h3>
+</center>
