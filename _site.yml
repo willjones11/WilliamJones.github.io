@@ -16,9 +16,9 @@ navbar:
   right:
     - text: Links 
       menu:
-      - icon: fa-github
+      - text: Github
         href: https://github.com/willjones11
-      - icon: fa-linkedin
+      - text: Linkden
         href: https://www.linkedin.com/in/williamfjones11/
         
     - text: Papers
