@@ -7,7 +7,11 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Beer Study"
+    menu:
+    - text: Project EDA
       href: Project_1.html
+    - text: Rshiny App
+      href: https://willjones11.shinyapps.io/casestudy/
 output:
   html_document:
     theme: yeti
