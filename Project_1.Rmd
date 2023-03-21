@@ -3,7 +3,6 @@ title: "DS 6306 Project 1"
 author: "William Jones & Christian Orji"
 date: "2023-02-19"
 output:
-  pdf_document: default
   html_document: default
 ---
 ##Project 1 for DS 6306
