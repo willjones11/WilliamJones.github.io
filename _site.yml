@@ -1,0 +1,15 @@
+name: "my-website"
+navbar:
+  title: "Directory"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Beer Study"
+      href: Project_1.html
+output:
+  html_document:
+    theme: yeti
+      
+  
