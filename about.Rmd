@@ -1,0 +1,25 @@
+---
+output: html_document
+---
+```{css, echo = FALSE}
+  body{
+    background-color : gray;
+    font-family: Roboto Slab
+}
+  img {
+    border-radius: 10%;
+}
+  
+```
+<center>
+<h2> My Name is William Jones </h2>
+  <h4> I currently reside in Atlanta, Georgia where I work at Georgia State University as a Research Temp. I have a strong passion for data and creating machine learning models. </h3>
+  <h2><u><b>Education</b></u></h2>
+  <img style="border: 2px solid blue" src = "https://github.com/willjones11/willjones11.github.io/blob/main/smu.png?raw=true">
+  <h3><b>Southern Methodist University</b></h3>
+  <h4>Masters of Science in Data Science</h3>
+  <img style="border: 2px solid red" src = "https://github.com/willjones11/willjones11.github.io/blob/main/gsu.png?raw=true" >
+  <h3><b>Georgia State University</b></h3>
+  <h4>Bachelors of Science in Physics</h3>
+  <h4>Bachelors of Science in Computer Science</h3>
+</center>
