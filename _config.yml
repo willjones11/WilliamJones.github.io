@@ -1,6 +1,7 @@
 name: "my-website"
 navbar:
   title: "Directory"
+  type: inverse
   left:
     - text: "Home"
       href: index.html
@@ -12,8 +13,20 @@ navbar:
         href: Project_1.html
       - text: Rshiny App
         href: https://willjones11.shinyapps.io/casestudy/
-      
-  html_document:
+  right:
+    - text: Links 
+      menu:
+      - href: https://github.com/willjones11
+        icon: fa-github
+      - href: https://www.linkedin.com/in/williamfjones11/
+        icon: fa-twitter
+    - text: Papers
+      menu: 
+      - text: LSTM CNN
+        href: https://github.com/willjones11/LSTMCNN/blob/main/AI_research_paper.pdf?raw=true
+      - text: Muon Radiosonde Correlation
+        href: https://docs.google.com/document/d/1F7S2HmP6Gj4zTV-z1ZtOrUcDbAHgDXaW15Mef4D3so0/edit?usp=sharing
+html_document:
     theme: yeti
       
   
