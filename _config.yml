@@ -27,6 +27,8 @@ navbar:
         href: https://github.com/willjones11/LSTMCNN/blob/main/AI_research_paper.pdf?raw=true
       - text: Muon Radiosonde Correlation
         href: https://docs.google.com/document/d/1F7S2HmP6Gj4zTV-z1ZtOrUcDbAHgDXaW15Mef4D3so0/edit?usp=sharing
+      - text: Housing Analysis
+        href: https://github.com/willjones11/MSDS-6371-Project/blob/main/Jones_Bhandari_Project.pdf?raw=true
 html_document:
     theme: yeti
   
