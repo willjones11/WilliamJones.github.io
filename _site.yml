@@ -33,8 +33,8 @@ navbar:
     - text: DDS Case Study 2
       menu:
       - text: R Markdown File
-        href: 
+        href: https://github.com/willjones11/MSDS6396_Case_Study2/blob/main/William_Jones_Case_Study_2(1).Rmd
       - text: Youtube Presentation
-        href: 
+        href: https://youtu.be/MbfQbsnYQBM
 html_document:
     theme: yeti
