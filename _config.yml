@@ -13,6 +13,8 @@ navbar:
         href: Project_1.html
       - text: Rshiny App
         href: https://willjones11.shinyapps.io/casestudy/
+    - text: "Julia Set"
+      href: visual.html
   right:
     - text: Links 
       menu:
